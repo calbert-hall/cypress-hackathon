@@ -1,3 +1,12 @@
+## Prerequisites
+See our [Tutorial](https://applitools.com/tutorials/cypress.html#running-tests-with-applitools)
+for prerequisites. 
+
+## First Test
+
+* Run the first BasicDemo.spec.js test by calling `npx cypress open` and selecting the specfile to run. 
+
+
 # Hackathon Exercise!
 
 * In this exercise, you'll be a Test Engineer looking to run tests on an e-commerce site, "Applifashion". 

@@ -13,7 +13,7 @@ module.exports = {
         {deviceName: 'iPhone X', screenOrientation: 'portrait'}
     ],
     // set batch name to the configuration
-    batchName: 'Demo Batch - Cypress',
+    batchName: 'Hackathon - Cypress',
     //showLogs: true,
     failCypressOnDiff: false
 }
