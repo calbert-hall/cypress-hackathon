@@ -58,5 +58,5 @@ Add `iPhone_X` in portrait mode, and FireFox 1200 x 800 as browsers for the Ultr
 * If you need more challenges, ask your hackathon administrator!
 
 ## Resources
-- [Applitools SDK Documentation](https://github.com/applitools/eyes.sdk.ruby)
+- [Applitools SDK Documentation](https://www.npmjs.com/package/@applitools/eyes-cypress)
 - [Applitools Best Practices](https://applitools.com/docs/topics/general-concepts/visual-test-best-practices.html)

@@ -25,7 +25,7 @@ describe("AppTest", () => {
         // Call Open on eyes to initialize a test session
         cy.eyesOpen({
             appName: 'Hackathon',
-            testName: '[Team Name Here] Applifashion Filter Workflow Test'
+            testName: '[Team Name Here] : Applifashion Filter Workflow Test'
         })
 
         if (DYNAMIC_CONTENT) {
