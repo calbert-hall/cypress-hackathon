@@ -2,6 +2,9 @@
 See our [Tutorial](https://applitools.com/tutorials/cypress.html#running-tests-with-applitools)
 for prerequisites. 
 
+* Additionally, if the URL on your Applitools dashboard is *not* eyes.applitools.com, you'll need to set the server url in your Applitools.config.js. 
+ex. `serverUrl: 'https://mycompanyeyes.applitools.com/'`
+
 ## First Test
 
 * Run the first BasicDemo.spec.js test by calling `npx cypress open` and selecting the specfile to run. 
